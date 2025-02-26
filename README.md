@@ -82,3 +82,5 @@ ocenę jakości klasteryzacji oraz porównanie wyników klasyfikacji.
 ##WYNIKI ANALIZ
 
 Wszystkie obliczone metryki jakości klasteryzacji zostały zapisane w plikach o rozszeżeniu  ** .csv** - co pozwala na dalszą analizę i porównanie modeli.
+
+

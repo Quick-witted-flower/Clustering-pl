@@ -35,7 +35,7 @@ ocenę jakości klasteryzacji oraz porównanie wyników klasyfikacji.
 
     Wytrenowanie i ocena klasyfikatorów: Random Forest, SVM, KNN.
 
-    Walidacja modeli i analiza skuteczności.
+    Podział danych na zbiór treningowy i testowy (bez walidacji krzyżowej)
 
 5.Analiza wyników i wnioski
 
@@ -79,8 +79,5 @@ ocenę jakości klasteryzacji oraz porównanie wyników klasyfikacji.
 
     Porównanie skuteczności modeli na zbiorze walidacyjnym i testowym.
 
-##WYNIKI ANALIZ
-
-Wszystkie obliczone metryki jakości klasteryzacji zostały zapisane w plikach o rozszeżeniu  ** .csv** - co pozwala na dalszą analizę i porównanie modeli.
 
 
